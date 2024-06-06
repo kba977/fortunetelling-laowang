@@ -3,3 +3,7 @@ langchain
 langchain-community
 langsmith
 langchain_openai
+redis
+qdrant_client
+uvicorn
+google-search-results
